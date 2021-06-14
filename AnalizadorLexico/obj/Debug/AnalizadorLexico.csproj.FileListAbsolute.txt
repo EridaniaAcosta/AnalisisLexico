@@ -1,0 +1,10 @@
+C:\Users\qjmso\Desktop\2-2021\compiladores\EjemploAnalizadorLexico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\qjmso\Desktop\2-2021\compiladores\EjemploAnalizadorLexico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\qjmso\Desktop\2-2021\compiladores\EjemploAnalizadorLexico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\qjmso\Desktop\2-2021\compiladores\EjemploAnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\qjmso\Desktop\2-2021\compiladores\EjemploAnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.AnalizadorLexico.resources
+C:\Users\qjmso\Desktop\2-2021\compiladores\EjemploAnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\qjmso\Desktop\2-2021\compiladores\EjemploAnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\qjmso\Desktop\2-2021\compiladores\EjemploAnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\qjmso\Desktop\2-2021\compiladores\EjemploAnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\qjmso\Desktop\2-2021\compiladores\EjemploAnalizadorLexico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
